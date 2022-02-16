@@ -5,5 +5,5 @@ This website was created using PHP and MYSQL. The project aim at solving problem
 
 # The Login Form
 ![image](https://user-images.githubusercontent.com/74609778/154192489-2b023018-0748-4100-9375-dc4def0481c4.png)
-#Creating an Accommondation
+# Creating an Accommondation
 ![image](https://user-images.githubusercontent.com/74609778/154192897-4aad1027-8b89-41ac-afa1-d5dd05bf98ab.png)
